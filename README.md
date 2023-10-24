@@ -1,16 +1,34 @@
-# chile_fantastico
 
-A new Flutter project.
 
-## Getting Started
+## Chile fantastico ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆
 
-This project is a starting point for a Flutter application.
+  Es un nuevo proyecto desarollado en flutter este proyecto fue generado con la finalidad de cumplir el proyecto de integracion  y problematicas reales que con las cuales queriamos trabajar
+  En este proyecto trabajamos con mucho amor por❤️💕╰(*°▽°*)╯ :
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://github.com/90hellbaby">Charlotte Rodriguez</a>,
+<a href="https://github.com/conywywy">Constanza Muñoz</a>
+<a href="https://github.com/baosses">Benjamin Mardones</a>
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+    <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAgQWvXOvm9jAZbAOgbH1NT4">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+StudyCombinaded es un proyecto que nacio en base a la idea de que no todos pensamos de la misma manera..₊˚ʚ 🌱 ₊˚✧ ﾟ.
+<h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 ⊹ɞ </h1>
+<div align="center">
+    <img src="https://dthezntil550i.cloudfront.net/7x/latest/7x2009170632102600012715286/c11cf087-9e42-4bc9-a14c-1e77b2e168af.gif">
+
+</div>
+
+
+## De momento
+De momento no hay mucho que decir  solo que dejamos adjuntado todo el procedimiento para que posteriormente le sea util a alguien que realice una investigación o bien quiera 
+dedicarse a algo similar y le pueda servir como guia໒꒰ྀི´ ˘ ` ꒱ྀིა o inspiración
+
+
+    
+<h1 align="center">Gracias por leer el README.md del proyecto</h1>
+<div align="center">
+    <img src="https://media.tenor.com/FjuLjYUEiGgAAAAd/yashiro-nene-toilet-bound-hanako-kun.gif">
+</div>
