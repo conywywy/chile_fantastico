@@ -14,7 +14,7 @@
     <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAgQWvXOvm9jAZbAOgbH1NT4">
 </div>
 
-StudyCombinaded es un proyecto que nacio en base a la idea de que no todos pensamos de la misma manera..₊˚ʚ 🌱 ₊˚✧ ﾟ.
+StudyCombinaded es un proyecto que nacio en base a la idea de que no todos  aprendendemos en la misma velocidad..₊˚ʚ 🌱 ₊˚✧ ﾟ.
 <h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 ⊹ɞ </h1>
 <div align="center">
     <img src="https://dthezntil550i.cloudfront.net/7x/latest/7x2009170632102600012715286/c11cf087-9e42-4bc9-a14c-1e77b2e168af.gif">
