@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ojala git lo asocie
 void main() => runApp(ContactProfilePage());
 
 class ContactProfilePage extends StatelessWidget {
@@ -89,7 +90,6 @@ class ContactProfilePage extends StatelessWidget {
                 ),
 
                 //NEW CODE: Contact's home address item
-                addressListTile(),
               ],
             ),
           ],
@@ -163,21 +163,7 @@ class ContactProfilePage extends StatelessWidget {
     return ListTile(
       leading: Icon(Icons.email),
       title: Text("priyanka@priyanka.com"),
-      subtitle: Text("work"),
-    );
-  }
-
-  //NEW CODE: Adding Contact's home address
-  Widget addressListTile() {
-    return ListTile(
-      leading: Icon(Icons.location_on),
-      title: Text("234 Sunset St, Burlingame"),
-      subtitle: Text("home"),
-      trailing: IconButton(
-        icon: Icon(Icons.directions),
-        color: Colors.indigo.shade500,
-        onPressed: () {},
-      ),
+      subtitle: Text("Correo escolar"),
     );
   }
 }
